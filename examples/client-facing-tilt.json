@@ -1,0 +1,44 @@
+{
+  "headline": "Design Consultant · Client Services",
+  "profile": "Designer who runs the client relationship, not just the file. Seven years scoping, presenting, and shipping brand and product work for 30+ client teams.",
+  "expertise": [
+    "Client Services",
+    "Design Strategy",
+    "Brand & Identity",
+    "Workshop Facilitation",
+    "Product Design",
+    "Proposal & Scoping"
+  ],
+  "experience": [
+    {
+      "org": "Northwind Labs",
+      "dates": "2022–Present",
+      "role": "Senior Product Designer · Portland, OR",
+      "bullets": [
+        "Lead design for a B2B analytics platform used by 400+ teams.",
+        "Present quarterly roadmap work to enterprise customers and executive stakeholders.",
+        "Built the design system adopted by 3 product squads."
+      ]
+    },
+    {
+      "org": "Arc & Foundry",
+      "dates": "2019–2022",
+      "role": "Design Engineer · Seattle, WA",
+      "bullets": [
+        "Owned client relationships across fintech and retail accounts.",
+        "Delivered 12 marketing sites and 4 product UIs from kickoff through launch.",
+        "Ran discovery workshops and wrote scopes for six-figure engagements."
+      ]
+    },
+    {
+      "org": "Paperlight Studio",
+      "dates": "2017–2019",
+      "role": "Brand Designer · Portland, OR",
+      "bullets": [
+        "Identity systems, packaging, and web design for 30+ small-business clients.",
+        "Ran brand workshops and delivered style guides teams could actually use."
+      ]
+    }
+  ],
+  "footerLeft": "Alex Rivera · Design Consultant"
+}

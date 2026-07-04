@@ -87,7 +87,7 @@ PRs welcome.
 
 ## Roadmap
 
-- [ ] Overlay examples for common tailoring scenarios (engineering, design, sales tilt)
+- [x] Overlay examples for common tailoring scenarios: see [`examples/`](examples/)
 - [ ] Page-fit autotuner: nudge spacing variables until content fits one page
 - [ ] Cover letter templates sharing the same data file
 - [ ] Hosted rendering and tailoring service (exploring)
