@@ -1,0 +1,10 @@
+{
+  "recipient": "Hiring Team",
+  "company": "Northwind Labs",
+  "role": "Senior Product Designer",
+  "paragraphs": [
+    "I'm applying for the Senior Product Designer role at Northwind Labs. Your design system work is the part of the product I'd brag about, and it's exactly the work I want to own.",
+    "For the past three years I've led design for a B2B analytics platform used by 400+ teams: I built the design system (60+ components, tokens, docs) that three product squads ship with, and I write production React alongside the design work, so my components arrive working.",
+    "My resume is attached in your preferred format; the same data renders to sixteen designs, which says something about how I think about systems. I'd love to talk."
+  ]
+}

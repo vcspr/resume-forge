@@ -89,7 +89,7 @@ PRs welcome.
 
 - [x] Overlay examples for common tailoring scenarios: see [`examples/`](examples/)
 - [ ] Page-fit autotuner: nudge spacing variables until content fits one page
-- [ ] Cover letter templates sharing the same data file
+- [x] Cover letter sharing the same data file: `node letter.mjs --in examples/letter.json`
 - [ ] Hosted rendering and tailoring service (exploring)
 
 ## License
