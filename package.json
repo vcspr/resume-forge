@@ -1,0 +1,19 @@
+{
+  "name": "resume-forge",
+  "version": "0.1.0",
+  "description": "One resume JSON, sixteen designed themes. HTML to print-perfect PDF via Playwright.",
+  "type": "module",
+  "bin": { "resume-forge": "./forge.mjs" },
+  "scripts": {
+    "demo": "node forge.mjs --all",
+    "list": "node forge.mjs --list"
+  },
+  "keywords": ["resume", "cv", "resume-builder", "pdf", "playwright", "design", "themes"],
+  "author": "Victor Uwakwe (https://github.com/vcspr)",
+  "license": "MIT",
+  "repository": { "type": "git", "url": "https://github.com/vcspr/resume-forge.git" },
+  "engines": { "node": ">=18" },
+  "dependencies": {
+    "playwright": "^1.49.0"
+  }
+}

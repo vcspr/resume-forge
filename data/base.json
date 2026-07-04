@@ -1,0 +1,98 @@
+{
+  "topbarLeft": "Resume",
+  "topbarRight": "Portland, OR · Open to Work",
+  "name": "ALEX RIVERA",
+  "nickname": "(Alex)",
+  "headline": "Product Designer · Design Engineer",
+  "location": "Portland, OR",
+  "email": "hello@alexrivera.dev",
+  "phone": "(503) 555-0147",
+  "portfolio": "alexrivera.dev",
+  "linkedin": "linkedin.com/in/alex-rivera-example",
+  "profile": "Product designer who builds what they design. Seven years across design systems, front-end engineering, and brand. Ships accessible interfaces and the component libraries behind them.",
+  "expertise": [
+    "Product Design",
+    "Design Systems",
+    "Front-End Engineering",
+    "Interaction Design",
+    "Brand & Identity",
+    "Design Tooling"
+  ],
+  "expertiseGroups": [
+    {
+      "name": "Product",
+      "items": ["UI / UX Design", "Design Systems", "Prototyping", "Accessibility"]
+    },
+    {
+      "name": "Engineering",
+      "items": ["React / TypeScript", "CSS Architecture", "Design Tokens", "Storybook"]
+    },
+    {
+      "name": "Brand",
+      "items": ["Identity Systems", "Art Direction", "Motion", "Typography"]
+    }
+  ],
+  "tools": [
+    "Figma · Sketch · Framer",
+    "React · TypeScript · Next.js",
+    "Storybook · Chromatic",
+    "After Effects · Blender"
+  ],
+  "workedWith": ["Figma", "React", "TypeScript", "Storybook", "Framer", "Blender"],
+  "education": [
+    {
+      "title": "B.F.A., Graphic Design",
+      "org": "Pacific Northwest College of Art",
+      "detail": "2013–2017 · Portland, OR"
+    }
+  ],
+  "certifications": [],
+  "experience": [
+    {
+      "org": "Northwind Labs",
+      "dates": "2022–Present",
+      "role": "Senior Product Designer · Portland, OR",
+      "bullets": [
+        "Lead design for a B2B analytics platform used by 400+ teams.",
+        "Built the design system: 60+ components, tokens, and docs adopted by 3 product squads.",
+        "Ship production React and TypeScript alongside the design work."
+      ]
+    },
+    {
+      "org": "Arc & Foundry",
+      "dates": "2019–2022",
+      "role": "Design Engineer · Seattle, WA",
+      "bullets": [
+        "Bridged design and engineering for client work across fintech and retail.",
+        "Delivered 12 marketing sites and 4 product UIs, from Figma to deployed front end.",
+        "Introduced visual regression testing, cutting UI defects by 40%."
+      ]
+    },
+    {
+      "org": "Paperlight Studio",
+      "dates": "2017–2019",
+      "role": "Brand Designer · Portland, OR",
+      "bullets": [
+        "Identity systems, packaging, and web design for 30+ small-business clients.",
+        "Ran brand workshops and delivered style guides teams could actually use."
+      ]
+    }
+  ],
+  "clients": [],
+  "showReferences": true,
+  "references": [
+    {
+      "name": "Sam Okafor",
+      "title": "Design Director, Northwind Labs",
+      "contact": "(503) 555-0193"
+    },
+    {
+      "name": "Jamie Chen",
+      "title": "Engineering Lead, Arc & Foundry",
+      "contact": "(206) 555-0128"
+    }
+  ],
+  "footnote": "",
+  "footerLeft": "Alex Rivera · Product Designer · Design Engineer",
+  "footerRight": "hello@alexrivera.dev"
+}
