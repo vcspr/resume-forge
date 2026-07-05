@@ -4,7 +4,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-black.svg)](LICENSE)
 [![Node >= 18](https://img.shields.io/badge/node-%3E%3D18-brightgreen.svg)](package.json)
-[![Themes](https://img.shields.io/badge/themes-16-blue.svg)](#theme-gallery)
+[![Themes](https://img.shields.io/badge/themes-19-blue.svg)](#theme-gallery)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-orange.svg)](#adding-a-theme)
 
 ![All 16 themes rendered from the same JSON](media/hero.gif)
@@ -29,7 +29,7 @@ write the fields you change.
 
 ## Theme Gallery
 
-Same data, sixteen designs. Click any thumbnail for full size.
+Same data, nineteen designs. Click any thumbnail for full size.
 
 | | | | |
 |:---:|:---:|:---:|:---:|
@@ -37,10 +37,13 @@ Same data, sixteen designs. Click any thumbnail for full size.
 | [![greenlink](media/gallery/greenlink.png)](media/gallery/greenlink.png)<br>`greenlink` | [![indigo](media/gallery/indigo.png)](media/gallery/indigo.png)<br>`indigo` | [![ledger](media/gallery/ledger.png)](media/gallery/ledger.png)<br>`ledger` | [![monodotted](media/gallery/monodotted.png)](media/gallery/monodotted.png)<br>`monodotted` |
 | [![monomemo](media/gallery/monomemo.png)](media/gallery/monomemo.png)<br>`monomemo` | [![numbered](media/gallery/numbered.png)](media/gallery/numbered.png)<br>`numbered` | [![quad](media/gallery/quad.png)](media/gallery/quad.png)<br>`quad` | [![redaccent](media/gallery/redaccent.png)](media/gallery/redaccent.png)<br>`redaccent` |
 | [![serif](media/gallery/serif.png)](media/gallery/serif.png)<br>`serif` | [![slate](media/gallery/slate.png)](media/gallery/slate.png)<br>`slate` | [![standard](media/gallery/standard.png)](media/gallery/standard.png)<br>`standard` | [![swiss](media/gallery/swiss.png)](media/gallery/swiss.png)<br>`swiss` |
+| [![atsserif](media/gallery/atsserif.png)](media/gallery/atsserif.png)<br>`atsserif` | [![atscompact](media/gallery/atscompact.png)](media/gallery/atscompact.png)<br>`atscompact` | [![atsminimal](media/gallery/atsminimal.png)](media/gallery/atsminimal.png)<br>`atsminimal` | |
 
-The `ats` theme is deliberately plain: single column, standard headers, hyphens only.
-Use it for applicant tracking systems that choke on designed layouts; use the other
-fifteen for humans.
+**Four ATS-safe themes** are deliberately plain (single column, standard headers, hyphens
+only) so applicant tracking systems parse them cleanly, each for a different room:
+`ats` (bare, and also emits a paste-ready `.txt`), `atsserif` (conservative serif for
+finance, law, academia), `atscompact` (9pt, fits a long career on one page), and
+`atsminimal` (airy modern sans). Use the other fifteen for humans.
 
 ## Your Resume Is One JSON File
 
