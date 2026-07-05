@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * forge.mjs — one resume, sixteen designs.
+ * forge.mjs — one resume, every design.
  *
  * Usage:
  *   node forge.mjs --theme swiss                          # demo persona, one theme

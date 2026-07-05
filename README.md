@@ -1,25 +1,25 @@
 # resume-forge
 
-**One resume JSON. Sixteen designed themes. Print-perfect PDFs.**
+**One resume JSON. A gallery of designed themes. Print-perfect PDFs.**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-black.svg)](LICENSE)
 [![Node >= 18](https://img.shields.io/badge/node-%3E%3D18-brightgreen.svg)](package.json)
-[![Themes](https://img.shields.io/badge/themes-19-blue.svg)](#theme-gallery)
+[![Themes](https://img.shields.io/badge/themes-gallery-blue.svg)](#theme-gallery)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-orange.svg)](#adding-a-theme)
 
-![All 16 themes rendered from the same JSON](media/hero.gif)
+![Every theme rendered from the same JSON](media/hero.gif)
 
 Your resume content lives in one JSON file. Every theme is a self-contained renderer that
 turns that JSON into designed HTML and a pixel-accurate PDF through headless Chromium.
 Change the data once, re-render every design. Tailor per application with a tiny overlay
-file instead of maintaining sixteen documents.
+file instead of maintaining a separate document per design.
 
 ## Quickstart
 
 ```bash
 git clone https://github.com/vcspr/resume-forge && cd resume-forge
 npm install && npx playwright install chromium
-node forge.mjs --all                 # render the demo persona in all 16 themes
+node forge.mjs --all                 # render the demo persona in every theme
 node forge.mjs --theme swiss --data my-resume.json
 ```
 
@@ -29,7 +29,7 @@ write the fields you change.
 
 ## Theme Gallery
 
-Same data, nineteen designs. Click any thumbnail for full size.
+Same data, every theme. Click any thumbnail for full size.
 
 | | | | |
 |:---:|:---:|:---:|:---:|
@@ -43,7 +43,7 @@ Same data, nineteen designs. Click any thumbnail for full size.
 only) so applicant tracking systems parse them cleanly, each for a different room:
 `ats` (bare, and also emits a paste-ready `.txt`), `atsserif` (conservative serif for
 finance, law, academia), `atscompact` (9pt, fits a long career on one page), and
-`atsminimal` (airy modern sans). Use the other fifteen for humans.
+`atsminimal` (airy modern sans). Use the rest for humans.
 
 ## Your Resume Is One JSON File
 
